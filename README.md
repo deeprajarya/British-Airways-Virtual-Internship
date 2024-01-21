@@ -1,5 +1,7 @@
-# British-Airways-Virtual-Internship
-Data science virtual internship programme by British Airways through Forage !!!
+## British-Airways-Internship 
+Data science virtual internship by British Airways through Forage !!!
+
+# Objective : Anticipate Customer Purchasing Behaviour
 
 Task 1
 -  Using web scraping to obtain unstructured data from https://www.airlinequality.com/airline-reviews/british-airways on customer evaluations and feedback
